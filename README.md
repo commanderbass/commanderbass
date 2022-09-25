@@ -20,7 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=commanderbass&icon=3&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
   
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
