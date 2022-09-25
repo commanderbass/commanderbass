@@ -13,7 +13,7 @@
 ![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 ![Docker](https://img.shields.io/badge/-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Java](https://img.shields.io/badge/JS-%23ED8B00.svg?style=flat&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 #
