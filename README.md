@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nothing clearly,<br>  but alway's something..<br><br>Private Projects:<br>- Community with Teamspeak, Game Server and Website.<br>- Roleplay based on Alt:V<br><br>OS:<br>- Rocky Linux<br>- Windows 11<br>- Windows XP<br>- OS/2<br><br>PLC:<br>- KNX<br>- MESSNER Technik<br>- DEOS<br><br>most common languages:<br>- C Sharp<br>- JavaScript<br><br>*sometimes* PHP and Lua<br>
+Nothing clearly,<br>  but alway's something..<br><br>Private Projects:<br>- Community with Teamspeak, Game Server and Website.<br>- Roleplay based on Alt:V<br><br>OS:<br>- Rocky Linux<br>- Windows 11<br>- Windows XP<br>- OS/2<br><br>PLC:<br>- KNX<br>- MESSNER Technik<br>- DEOS<br><br>most common languages:<br>- C Sharp<br>- JavaScript<br>
 
 
 ## 🌐 Socials:
