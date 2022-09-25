@@ -1,4 +1,4 @@
-[![Twitch](https://img.shields.io/badge/-808080.svg?style=flat&logo=teamspeak&logoColor=black)](ts3server://sturmwind)
+[![Twitch](https://img.shields.io/badge/-808080.svg?style=flat&logo=teamspeak&logoColor=black)](https://ts3.sturmwind.cloud/)
 [![Twitch](https://img.shields.io/badge/-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/commanderbass)
 [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCcELTkG94P7XarTCzZ6gENQ)
 [![Steam](https://img.shields.io/badge/-000000.svg?style=flat&logo=Steam&logoColor=white)](https://twitch.tv/commanderbass)
