@@ -1,7 +1,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/commanderbass)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCcELTkG94P7XarTCzZ6gENQ)
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?style=flat&logo=Steam&logoColor=white)](https://twitch.tv/commanderbass)
-[![Discord](https://img.shields.io/badge/commanderbass'9596-%237289DA.svg?logo=discord&logoColor=white)](https://twitch.tv/commanderbass)
+[![Discord](https://img.shields.io/badge/commanderbass'9596-%237289DA.svg?logo=discord&logoColor=white)]()
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/stwcc) 
 
 **Nothing clearly,<br>[bass ~]# but alway's something..**<br><br>Private Projects:<br>- Community with Teamspeak, Game Server and Website.<br>- Roleplay based on Alt:V<br><br>OS:<br>- Rocky Linux<br>- Windows 11<br>- Windows XP<br>- OS/2<br><br>PLC:<br>- KNX<br>- MESSNER Technik<br>- DEOS<br><br>most common languages:<br>- C Sharp<br>- JavaScript<br>
