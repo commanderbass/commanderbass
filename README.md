@@ -5,7 +5,7 @@
 [![PayPal](https://img.shields.io/badge/-00457C?logo=paypal&logoColor=white)](https://paypal.me/stwcc)
 [![Discord](https://img.shields.io/badge/commanderbass'9596-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me)
 ---
-**Nothing clearly,<br>[bass ~]# but alway's something..**<br><br>Private Projects:<br>- Community with Teamspeak, Game Server and Website.<br>- Roleplay based on GTA<br><br>OS:<br>- Rocky Linux<br>- Windows 11<br>- Windows XP<br>- OS/2<br><br>PLC:<br>- KNX<br>- MESSNER Technik<br>- DEOS<br><br>most common languages:<br>- C Sharp<br>- JavaScript<br>
+**Nothing clearly,<br>[bass ~]# but alway's something..**<br><br>Private Projects:<br>- Community with Teamspeak, Game Server and Website.<br>- Roleplay based on GTA<br><br>OS:<br>- Rocky Linux<br>- Flatcar<br>- Windows 11<br>- Windows XP<br>- OS/2<br><br>PLC:<br>- KNX<br>- MESSNER Technik<br>- DEOS<br><br>most common languages:<br>- C Sharp<br>- JavaScript<br>
 
 #
 ![C#](https://img.shields.io/badge/-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
